@@ -1,4 +1,8 @@
 # Bikesharing
+
+This Tableau story can be seen here: 
+[link to dashboard](https://public.tableau.com/app/profile/jonathan.uthayakumar/viz/BikesharingAnalysis_16550668806090/BikesharingAnalysis?publish=yes)
+
 ## Overview
   The purpose of this project is to analyze data from CitiBike in New York City to determine if investors should start a bikesharing program in Des Moines. 
 ## Results
